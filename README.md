@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isak</h1>
 <h3 align="center">An aspiring and dedicated developer frem Oslo, Norway</h3>
 
-- ⚙️ I’m currently working on [BakkaCoin](https://github.com/ludvig03/Bakkacoin-2.0.git)
-
-- 🧠 I’m currently learning **React and Backend languages**
+- 🧠 I’m currently learning **Front-End Technologies**
 
 - 📫 How to reach me **dahlenisak@gmail.com**
 
